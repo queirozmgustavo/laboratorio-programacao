@@ -2,7 +2,6 @@
 
 /*
     Faça um programa que receba a idade, a altura e o peso de 15 pessoas. Calcule e imprima:
-    
     a) a quantidade de pessoas com idade superior a 50 anos;
     b) a média das alturas das pessoas com idade entre 10 e 20 anos;
     c) a porcentagem de pessoas com peso inferior a 40 quilos entre todas as pessoas analisadas;
