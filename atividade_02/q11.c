@@ -12,7 +12,7 @@ int main(void) {
   int idade, sup_50 = 0;
   float altura, peso, inf_40 = 0, altura_10_20 = 0, cont = 0;
 
-  for (int i = 1; i < 6; i++) {
+  for (int i = 1; i < 16; i++) {
     printf("\nIdade: ");
     scanf("%i", &idade);
     printf("Altura: ");
